@@ -1,6 +1,10 @@
 # Inaccessible-Boot-Device
 Boot your computer using a USB bootable media.
 
+### Refrences
+* [https://www.windowscentral.com/how-fix-update-causing-inaccessible-boot-device-error-windows-10](https://www.windowscentral.com/how-fix-update-causing-inaccessible-boot-device-error-windows-10)
+* [https://docs.microsoft.com/en-us/windows-hardware/manufacture/desktop/add-or-remove-packages-offline-using-dism](https://docs.microsoft.com/en-us/windows-hardware/manufacture/desktop/add-or-remove-packages-offline-using-dism)
+
 Quick Tip: If your PC isn't booting from the USB flash drive, you'll need to change your system's BIOS settings to make sure it can boot from USB. Usually, you can access the BIOS by powering up your device and hitting one of the functions or ESC keys, but make sure to check your manufacturer's support website for more information.
 Click Next.
 Click the Repair your computer link in the bottom-right corner.
